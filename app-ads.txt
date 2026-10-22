@@ -159,3 +159,5 @@ video.unrulymedia.com, 947824792, RESELLER
 video.unrulymedia.com, 703273072, RESELLER
 video.unrulymedia.com, 201313863, RESELLER
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
+monetrix.ai, 10761, RESELLER
+start.io, 131192070, RESELLER
